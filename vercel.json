@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api.dws", "destination": "/api/api.dws" }
+  ]
+}
